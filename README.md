@@ -1,16 +1,14 @@
-### Olá, Nilton Barros aqui! 👨‍💻
+### Olá, Júlia Paixão aqui! 👨‍💻
 
-Sou estudante de desenvolvimento Kotlin para Android e apaixonado por tecnologia.
+Sou estudante de desenvolvimento de sistemas e apaixonada por tecnologia.
 ### 👀 Estou a procura de uma vaga no momento 👀
 
 ## ⚡ Minhas Habilidades
-- Desenvolvimento Android (Java e Kotlin)
-- Arquiteturas MVC, MVP, MVVM
-- APis com Retrofit, Coroutines
-- Git e GitHub
-- Firebase, SQLite e SQL
-- Scrum
+- HTML
+- CSS
+- Java
+- MySql
 
 ### 📫 Entre em contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niltonbarros2008/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/prof.niltonbarros/)
+
+[![Instagram](@paixa0_js)
